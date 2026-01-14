@@ -1,0 +1,13 @@
+obj/utils/trim_cmd_redirect.o: src/utils/trim_cmd_redirect.c \
+  includes/function.h includes/exec.h libft/libft.h includes/struct.h \
+  includes/utils.h
+
+includes/function.h:
+
+includes/exec.h:
+
+libft/libft.h:
+
+includes/struct.h:
+
+includes/utils.h:
